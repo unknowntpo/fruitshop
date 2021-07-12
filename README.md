@@ -1,2 +1,2 @@
-# fruitshop
-A Go - PostgresSQL  demo project.
+# go-postgres
+A practice of using PostgresSQL with Golang.
